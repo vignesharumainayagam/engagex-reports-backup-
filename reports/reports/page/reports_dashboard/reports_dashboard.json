@@ -1,0 +1,18 @@
+{
+ "content": null, 
+ "creation": "2018-03-02 12:23:16.194296", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2018-03-02 12:23:16.194296", 
+ "modified_by": "Administrator", 
+ "module": "Reports", 
+ "name": "reports-dashboard", 
+ "owner": "Administrator", 
+ "page_name": "Report's Dashboard", 
+ "roles": [], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0
+}
